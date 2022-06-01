@@ -20,7 +20,7 @@ nav ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: rgb(132, 251, 255);
+    background-color: rgb(108, 198, 250);
     border-radius: 5em;
 }
 
@@ -34,11 +34,11 @@ nav li a {
     text-align: center;
     padding: 1em 2em;
     text-decoration: none;
-    background-color: rgb(132, 251, 255);
+    background-color: rgb(108, 198, 250);
 }
 
 nav li a:hover {
-    background-color: rgb(51, 240, 253);
+    background-color: rgb(75, 184, 247);
 }
 
 table {
