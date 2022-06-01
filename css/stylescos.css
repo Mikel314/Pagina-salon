@@ -7,6 +7,8 @@
 
 h1 {
     font-family: 'Tiro Devanagari Sanskrit', serif;
+    background-image: url(images/4-fondos-de-pantalla-chulos-y-originales-luces-en-colores-pasteles-luces-coloridas-fotos-bonitas-para-poner-en-tu-pantalla-de-telefono.jpeg);
+    padding: 2em;
 }
 
 h2 {
@@ -40,9 +42,18 @@ nav li a:hover {
 }
 
 table {
+    margin-top: 2em;
     border: 1px solid black;
+    border-radius: 0.7em;
+    box-shadow: 1em 1em 1em rgb(113, 168, 240);
 }
 
 th {
     border: 1px solid black;
+    border-radius: 0.7em;
+}
+
+footer {
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 3em;
 }
