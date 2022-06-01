@@ -14,7 +14,6 @@ h1 {
 
 h2 {
     font-family: 'Tiro Devanagari Sanskrit', serif;
-    margin: 1em;
 }
 
 nav ul {
@@ -43,11 +42,6 @@ nav li a:hover {
     background-color: rgb(75, 184, 247);
 }
 
-article p {
-    font-family: 'Times New Roman', Times, serif;
-    margin: 0px 5px;
-}
-
 article {
     box-shadow: 1em 1em 1em rgb(113, 168, 240);
     border-radius: 1em;
@@ -61,7 +55,6 @@ img {
 }
 
 footer {
-    margin-top: 2em;
     font-family: 'Times New Roman', Times, serif;
-    display: inline;
+    margin-top: 3em;
 }
