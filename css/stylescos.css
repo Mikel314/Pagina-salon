@@ -3,7 +3,6 @@
 * {
     margin: 0%;
     padding: 0%;
-    background-color: rgb(252, 238, 238);
 }
 
 h1 {
@@ -14,7 +13,6 @@ h1 {
 
 h2 {
     font-family: 'Tiro Devanagari Sanskrit', serif;
-    margin: 1em;
 }
 
 nav ul {
@@ -43,25 +41,19 @@ nav li a:hover {
     background-color: rgb(75, 184, 247);
 }
 
-article p {
-    font-family: 'Times New Roman', Times, serif;
-    margin: 0px 5px;
-}
-
-article {
+table {
+    margin-top: 2em;
+    border: 1px solid black;
+    border-radius: 0.7em;
     box-shadow: 1em 1em 1em rgb(113, 168, 240);
-    border-radius: 1em;
-    margin: 3em 2em;
 }
 
-img {
-    height: 18em;
-    width: auto;
-    border-radius: 2em;
+th {
+    border: 1px solid black;
+    border-radius: 0.7em;
 }
 
 footer {
-    margin-top: 3em;
     font-family: 'Times New Roman', Times, serif;
-    display: inline;
+    margin-top: 3em;
 }
